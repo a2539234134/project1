@@ -1,3 +1,4 @@
+//获取对象
 const scrolltp = document.querySelector('#scrolltp');
 scrolltp.addEventListener('click',function(){
   // window.scrollTo(0,0) 瞬间滚动至页面
